@@ -1,0 +1,11 @@
+
+.bookInput {
+  display: flex;
+  flex-direction: column;
+  margin-top: 7px;
+}
+
+.displayBooks {
+  margin: 0 18px;
+  border: 2px solid;
+}
